@@ -28,8 +28,7 @@ var main = function () {
   + 'SHILL THREAD! DO NOT REPLY AT ALL!\n\n'
   + 'Do not engage with OP in any form! This is a paid shill post, its only purpose is to flood this board with pro-hillary shit.\n'
   + 'Leave this thread immediately, DO NOT REPLY AT ALL, even if OP tries hard to bait you. They are being PAID to waste your attention.\n\n'
-  + 'ADD THIS USERSCRIPT TO GREASEMONKEY (FIREFOX) OR TAMPERMONKEY (CHROME): raw codepile net/pile/zDLkPQNw\n'
-  + '(replace spaces with dots)';
+  + 'ADD THIS USERSCRIPT TO GREASEMONKEY (FIREFOX) OR TAMPERMONKEY (CHROME): http://github.com/Deshillify/deshillify-pol';
   var path = window.location.pathname;
   
   // Returns all classes as array
