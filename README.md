@@ -25,3 +25,4 @@
 ## TODO / Issues
 * Autoupdate / randomize code to throw off the shills
 * Figure out how to stop shills from flagging non-shill threads without turning /pol/ into reddit
+* Make it compatible with [4chanX](https://github.com/ccd0/4chan-x) and [OneeChan](https://github.com/nebukazar/OneeChan)
