@@ -9,15 +9,15 @@
 
 ### Firefox and Variants
 
-* Install Greasemonkey
-* Click here
+* Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+* [Click here](https://deshillify.github.io/deshillify-pol/deshillify-pol.user.js)
 * Follow prompts
 * Make sure Greasemonkey is enabled
 * Reload 4chan.
 
 ### Chrom(e/ium) and Variants
-* Install either Violentmonkey or Tampermonkey
-* Click here
+* Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+* [Click here](https://deshillify.github.io/deshillify-pol/deshillify-pol.user.js)
 * Follow prompts
 * Make sure userscript addon is enabled
 * Reload 4chan
